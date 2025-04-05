@@ -8,4 +8,4 @@ def double_the_money(x):
     return x*x
 
 print("hello world")
-print("hello world2")
+print("hello world")
