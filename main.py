@@ -1,3 +1,6 @@
+def return_boolean(x):
+    return True if x else  False
+
 def double_or_nothing(x):
     return  0 if  x==2 else x
 
