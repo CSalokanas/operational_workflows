@@ -1,3 +1,6 @@
+def double_or_nothing(x):
+    return  0 if  x==2 else x
+
 def triple_a_variable(x):
     return x*x*x
 
