@@ -1,9 +1,6 @@
 '''
 Some instrucitons
 '''
-aaaaaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbbbbbb
-CCCCCCCCCCCCCCCCCCCCCCC
 
 
 def return_boolean(x):
