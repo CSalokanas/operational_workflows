@@ -1,7 +1,7 @@
 '''
 Some instrucitons
 '''
-
+BLAH BLAH BLAH BLAH I WANT TO CREATE FUNCTION THAT RETURN THE STRING CONVERTION OF A NUMBER
 
 def return_boolean(x):
     return True if x else  False
