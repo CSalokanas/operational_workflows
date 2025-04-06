@@ -15,6 +15,8 @@ def triple_a_variable(x):
 def double_the_money(x):
     return x*x
 
+def add(x):
+    return x+x
 print("hello world")
 print("hello world")
 print("hello world3")
