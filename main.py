@@ -17,8 +17,11 @@ def double_the_money(x):
 def string_convertion(x:float) -> str:
     return str(x)
 
-print("hello world")
-print("hello world")
-print("hello world3")
-print("hello world 4")
-print("hello world")
+def string_convertion(x:float) -> str:
+    return str(x)
+
+
+
+print("Happy easter")
+print("Merry XMAS")
+print("Happy Summer")
