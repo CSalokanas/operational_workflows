@@ -2,7 +2,6 @@
 Some instrucitons
 '''
 
-
 def return_boolean(x):
     return True if x else  False
 
@@ -18,8 +17,8 @@ def double_the_money(x):
 def string_convertion(x:float) -> str:
     return str(x)
 
-def add(x):
-    return x+x
 print("hello world")
 print("hello world")
+print("hello world3")
+print("hello world 4")
 print("hello world")
