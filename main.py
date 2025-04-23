@@ -1,2 +1,2 @@
-print("restart1")
+print("restart")
 print("restart2")
